@@ -1,0 +1,77 @@
+{
+ "_source": "DenisSergeevitch/ex-ussr-kinship-research scripts/audit_evidence.py --json, recorded 2026-10-26; message text dropped, record IDs kept",
+ "cases": {
+  "petrenko": {
+   "exit": 0,
+   "counts": {
+    "persons": 9,
+    "artifacts": 8,
+    "claims": 7,
+    "relationships": 10
+   },
+   "claims_by_status": {
+    "single-source": 2,
+    "strongly-corroborated": 1,
+    "corroborated": 2,
+    "hypothesis": 1,
+    "contradicted": 1
+   },
+   "relationships_by_status": {
+    "single-source": 4,
+    "strongly-corroborated": 1,
+    "hypothesis": 1,
+    "corroborated": 2,
+    "contradicted": 1,
+    "unresolved": 1
+   },
+   "report_markers": [],
+   "error_ids": [],
+   "warning_ids": [
+    "C-0007",
+    "C-0007",
+    "R-0009",
+    "R-0009"
+   ]
+  },
+  "sokolov": {
+   "exit": 1,
+   "counts": {
+    "persons": 6,
+    "artifacts": 5,
+    "claims": 4,
+    "relationships": 7
+   },
+   "claims_by_status": {
+    "corroborated": 1,
+    "strongly-corroborated": 1,
+    "single-source": 1,
+    "hypothesis": 1
+   },
+   "relationships_by_status": {
+    "single-source": 4,
+    "corroborated": 1,
+    "strongly-corroborated": 1,
+    "hypothesis": 1
+   },
+   "report_markers": [
+    1,
+    0
+   ],
+   "error_ids": [
+    "A-0005",
+    "C-0002",
+    "R-0007",
+    "final-report.md",
+    "final-report.md",
+    "final-report.md"
+   ],
+   "warning_ids": [
+    "A-0004",
+    "C-0002",
+    "C-0002",
+    "R-0005",
+    "R-0005"
+   ]
+  }
+ }
+}

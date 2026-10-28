@@ -1,0 +1,11 @@
+relationship_id,person_a_id,relationship_type,person_b_id,biological_legal_household,claim_ids,supporting_artifact_ids,contradicting_artifact_ids,independence_groups,status,confidence,rationale
+R-0001,P-0001,spouse-of,P-0002,legal,C-0001,A-0001,,parish-1888,single-source,moderate,one parish entry
+R-0002,P-0001,parent-of,P-0003,biological,C-0002,A-0002;A-0003,,parish-1889;civil-1912,strongly-corroborated,high,birth entry plus father named on the 1912 marriage
+R-0003,P-0002,parent-of,P-0003,biological,,A-0002,,parish-1889,single-source,moderate,mother named in the birth entry
+R-0004,P-0003,spouse-of,P-0005,legal,C-0003,A-0003,,civil-1912,single-source,moderate,
+R-0005,P-0001,parent-of,P-0004,biological,C-0005,A-0005,,forum-tree,hypothesis,low,forum tree only
+R-0006,P-0003,parent-of,P-0006,biological,C-0004,A-0007;A-0004,,civil-1914;military-1941,corroborated,high,birth record and soldier card agree
+R-0007,P-0005,parent-of,P-0006,biological,,A-0007,,civil-1914,single-source,moderate,mother named in the birth record
+R-0008,P-0006,parent-of,P-0007,biological,C-0006,A-0006,A-0006,civil-1917,contradicted,low,father would be 3 years old
+R-0009,P-0006,spouse-of,P-0008,legal,C-0007,A-0008,,civil-1939,corroborated,moderate,
+R-0010,P-0008,parent-of,P-0009,biological,,,,,unresolved,,living person; not researched

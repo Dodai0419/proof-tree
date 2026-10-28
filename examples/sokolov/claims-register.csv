@@ -1,0 +1,5 @@
+claim_id,claim_text,subject_person_ids,claim_type,artifact_ids,supporting_independence_groups,contradicting_artifact_ids,status,confidence,rationale,next_action
+C-0001,Ilya is the son of Andrei and Evdokia,P-0001;P-0003,parentage,A-0001;A-0002,tver-1897;address-1930,,corroborated,high,birth entry plus patronymic in the address book,
+C-0002,Yuri is the son of Ilya,P-0003;P-0005,parentage,A-0003,blockade-1942;metrics-1925,,strongly-corroborated,high,informant named as son,find the 1925 birth
+C-0003,Ilya married Vera in 1921,P-0003;P-0004,marriage,A-0004,,,single-source,moderate,,
+C-0004,Lidia is a daughter of Ilya,P-0003;P-0006,parentage,A-0005,family-letters,,hypothesis,low,one letter calls her sister,search adoption files

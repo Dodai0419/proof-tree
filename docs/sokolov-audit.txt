@@ -1,0 +1,21 @@
+Case: examples/sokolov
+Records: persons=6, artifacts=5, claims=4, relationships=7
+- claims: corroborated=1, hypothesis=1, single-source=1, strongly-corroborated=1; not corroborated: 2
+- relationships: corroborated=1, hypothesis=1, single-source=4, strongly-corroborated=1; not corroborated: 5
+
+ERRORS:
+- A-0005: unknown person_id P-0099
+- C-0002: independence_group metrics-1925 is declared, but none of its artifact_ids belongs to it
+- R-0007: unknown artifact_id A-0009
+- final-report.md: cites R-0011, which is not in the registers
+- final-report.md:7: R-0005 is corroborated in the report, strongly-corroborated in the registers
+- final-report.md:11: R-0006 is single-source in the report, hypothesis in the registers
+
+WARNINGS:
+- A-0004: no independence_group
+- C-0002: status strongly-corroborated, but independent groups found: 1
+- C-0002: strongly-corroborated without one direct record with provenance and a locator of the original
+- R-0005: status strongly-corroborated, but independent groups found: 1
+- R-0005: strongly-corroborated without one direct record with provenance and a locator of the original
+
+wrote docs\sokolov.svg

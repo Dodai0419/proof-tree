@@ -1,0 +1,13 @@
+proof-tree includes work derived from these MIT-licensed projects:
+
+1. ex-ussr-kinship-research, https://github.com/DenisSergeevitch/ex-ussr-kinship-research (commit 3ee61a5)
+   Copyright (c) 2026 Denis Shiryaev. MIT License.
+   The audit in proof_tree.py is a port of scripts/audit_evidence.py (same checks and order, English messages).
+   The register CSV columns follow that project's assets/*.csv templates.
+
+2. dimensional-drawing, https://github.com/enesozturk/dimensional-drawing
+   Copyright (c) 2026 Enes Ozturk. MIT License.
+   The sheet follows its house rules (monochrome, line weight and dashes instead of colour, [TBD] for unknowns)
+   and reuses its greys (#111, #444, #7a7a7a, #d0d0d0, #f3f3f3) and the Arimo/Helvetica font stack.
+
+The example families in examples/ are fictional. Archive references and URLs in them are placeholders.

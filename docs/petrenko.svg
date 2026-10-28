@@ -1,0 +1,91 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1126 736" width="1126" height="736">
+<style>text{font-family:Arimo,'Helvetica Neue',Helvetica,Arial,sans-serif;fill:#111}.u{text-transform:uppercase;letter-spacing:.07em}.lbl{font-size:9.5px;fill:#7a7a7a}.box{fill:#fff;stroke:#111;stroke-width:1.4}.living{fill:#f3f3f3;stroke:#7a7a7a;stroke-width:1;stroke-dasharray:4 3}.tag{font-size:9px;fill:#444;paint-order:stroke;stroke:#fff;stroke-width:4px}</style>
+<rect width="1126" height="736" fill="#fff"/>
+<rect x="12" y="12" width="1102" height="712" fill="none" stroke="#111" stroke-width="1.2"/>
+<text x="48" y="58" class="u" font-size="26" font-weight="700">KINSHIP SHEET · PETRENKO</text>
+<text x="48" y="86" class="u lbl">P · persons</text><text x="48" y="108" font-size="20">9</text>
+<text x="198" y="86" class="u lbl">R · relationships</text><text x="198" y="108" font-size="20">10</text>
+<text x="348" y="86" class="u lbl">A · artifacts</text><text x="348" y="108" font-size="20">8</text>
+<text x="498" y="86" class="u lbl">R+ · proven links</text><text x="498" y="108" font-size="20">3/10</text>
+<text x="648" y="86" class="u lbl">N · audit notes</text><text x="648" y="108" font-size="20">4</text>
+<line x1="48" y1="122" x2="1078" y2="122" stroke="#d0d0d0"/>
+<text x="48" y="154" class="u" font-size="11.5" font-weight="700">Line = evidence</text>
+<path d="M48 178h56" stroke="#111" stroke-width="2.8" stroke-dasharray="" fill="none"/>
+<text x="114" y="181.5" class="u" font-size="10">STRONG</text>
+<path d="M48 200h56" stroke="#111" stroke-width="1.7" stroke-dasharray="" fill="none"/>
+<text x="114" y="203.5" class="u" font-size="10">CORROBORATED</text>
+<path d="M48 222h56" stroke="#111" stroke-width="1.1" stroke-dasharray="7 4" fill="none"/>
+<text x="114" y="225.5" class="u" font-size="10">SINGLE SOURCE</text>
+<path d="M48 244h56" stroke="#111" stroke-width="0.9" stroke-dasharray="1.5 3.5" fill="none"/>
+<text x="114" y="247.5" class="u" font-size="10">HYPOTHESIS</text>
+<path d="M48 266h56" stroke="#111" stroke-width="1.4" stroke-dasharray="" fill="none"/>
+<path d="M72 261l8 10M80 261l-8 10" stroke="#111" stroke-width="1.2"/>
+<text x="114" y="269.5" class="u" font-size="10">CONTRADICTED</text>
+<path d="M48 288h56" stroke="#111" stroke-width="0.8" stroke-dasharray="14 3 3 3" fill="none"/>
+<text x="114" y="291.5" class="u" font-size="10">[TBD]</text>
+<text x="48" y="328" class="u" font-size="11.5" font-weight="700">Audit notes</text>
+<text x="48" y="347" font-size="10" xml:space="preserve">1. C-0007: status corroborated, but</text>
+<text x="48" y="362" font-size="10" xml:space="preserve">   independent groups found: 1</text>
+<text x="48" y="381" font-size="10" xml:space="preserve">2. C-0007: corroborated without a rationale</text>
+<text x="48" y="400" font-size="10" xml:space="preserve">3. R-0009: status corroborated, but</text>
+<text x="48" y="415" font-size="10" xml:space="preserve">   independent groups found: 1</text>
+<text x="48" y="434" font-size="10" xml:space="preserve">4. R-0009: corroborated without a rationale</text>
+<path d="M643.0 176.0H733.0" fill="none" stroke="#111" stroke-width="1.1" stroke-dasharray="7 4"/>
+<text x="688.0" y="169.0" class="u tag" text-anchor="middle">R-0001</text>
+<path d="M543.0 208.0V245.0H680.0V294.0" fill="none" stroke="#111" stroke-width="2.8" stroke-dasharray=""/>
+<text x="686.0" y="271" class="u tag">R-0002 · STRONG</text>
+<path d="M843.0 208.0V257.0H696.0V294.0" fill="none" stroke="#111" stroke-width="1.1" stroke-dasharray="7 4"/>
+<text x="702.0" y="284" class="u tag">R-0003 · SINGLE SOURCE</text>
+<path d="M788.0 326.0H878.0" fill="none" stroke="#111" stroke-width="1.1" stroke-dasharray="7 4"/>
+<text x="833.0" y="319.0" class="u tag" text-anchor="middle">R-0004</text>
+<path d="M543.0 208.0V251.0H398.0V294.0" fill="none" stroke="#111" stroke-width="0.9" stroke-dasharray="1.5 3.5"/>
+<text x="404.0" y="284" class="u tag">R-0005 · HYPOTHESIS</text>
+<path d="M698.0 358.0V395.0H535.0V444.0" fill="none" stroke="#111" stroke-width="1.7" stroke-dasharray=""/>
+<text x="541.0" y="421" class="u tag">R-0006 · CORROBORATED</text>
+<path d="M968.0 358.0V407.0H551.0V444.0" fill="none" stroke="#111" stroke-width="1.1" stroke-dasharray="7 4"/>
+<text x="557.0" y="434" class="u tag">R-0007 · SINGLE SOURCE</text>
+<path d="M543.0 508.0V551.0H543.0V594.0" fill="none" stroke="#111" stroke-width="1.4" stroke-dasharray=""/>
+<path d="M539.0 572l8 10M547.0 572l-8 10" stroke="#111" stroke-width="1.4"/>
+<text x="549.0" y="584" class="u tag">R-0008 · CONTRADICTED</text>
+<path d="M643.0 476.0H733.0" fill="none" stroke="#111" stroke-width="1.7" stroke-dasharray=""/>
+<text x="688.0" y="469.0" class="u tag" text-anchor="middle">R-0009</text>
+<circle cx="688.0" cy="453.0" r="7" fill="#fff" stroke="#111" stroke-width=".9"/><text x="688.0" y="456.0" font-size="9" text-anchor="middle">3</text>
+<path d="M823.0 508.0V551.0H833.0V594.0" fill="none" stroke="#111" stroke-width="0.8" stroke-dasharray="14 3 3 3"/>
+<text x="839.0" y="584" class="u tag">R-0010 · [TBD]</text>
+<rect x="443.0" y="144.0" width="200" height="64" rx="6" class="box"/>
+<text x="453.0" y="160.0" class="u lbl">P-0001</text>
+<text x="453.0" y="179.0" font-size="12.5" font-weight="600">Ivan Petrenko</text>
+<text x="453.0" y="197.0" font-size="10.5" fill="#444" xml:space="preserve">b. c. 1861   d. 1919</text>
+<rect x="733.0" y="144.0" width="200" height="64" rx="6" class="box"/>
+<text x="743.0" y="160.0" class="u lbl">P-0002</text>
+<text x="743.0" y="179.0" font-size="12.5" font-weight="600">Paraskeva Petrenko (Melnyk)</text>
+<text x="743.0" y="197.0" font-size="10.5" fill="#444" xml:space="preserve">b. c. 1866   d. [TBD]</text>
+<rect x="588.0" y="294.0" width="200" height="64" rx="6" class="box"/>
+<text x="598.0" y="310.0" class="u lbl">P-0003</text>
+<text x="598.0" y="329.0" font-size="12.5" font-weight="600">Hryhorii Petrenko</text>
+<text x="598.0" y="347.0" font-size="10.5" fill="#444" xml:space="preserve">b. 1889   d. 1943</text>
+<rect x="298.0" y="294.0" width="200" height="64" rx="6" class="box"/>
+<text x="308.0" y="310.0" class="u lbl">P-0004 · CANDIDATE</text>
+<text x="308.0" y="329.0" font-size="12.5" font-weight="600">Mykola Petrenko</text>
+<text x="308.0" y="347.0" font-size="10.5" fill="#444" xml:space="preserve">b. 1892   d. [TBD]</text>
+<rect x="878.0" y="294.0" width="200" height="64" rx="6" class="box"/>
+<text x="888.0" y="310.0" class="u lbl">P-0005</text>
+<text x="888.0" y="329.0" font-size="12.5" font-weight="600">Olena Petrenko (Bondar)</text>
+<text x="888.0" y="347.0" font-size="10.5" fill="#444" xml:space="preserve">b. 1893   d. 1971</text>
+<rect x="443.0" y="444.0" width="200" height="64" rx="6" class="box"/>
+<text x="453.0" y="460.0" class="u lbl">P-0006</text>
+<text x="453.0" y="479.0" font-size="12.5" font-weight="600">Petro Petrenko</text>
+<text x="453.0" y="497.0" font-size="10.5" fill="#444" xml:space="preserve">b. 1914   d. 1985</text>
+<rect x="443.0" y="594.0" width="200" height="64" rx="6" class="box"/>
+<text x="453.0" y="610.0" class="u lbl">P-0007 · CANDIDATE</text>
+<text x="453.0" y="629.0" font-size="12.5" font-weight="600">Hanna Petrenko</text>
+<text x="453.0" y="647.0" font-size="10.5" fill="#444" xml:space="preserve">b. 1917   d. [TBD]</text>
+<rect x="733.0" y="444.0" width="200" height="64" rx="6" class="box"/>
+<text x="743.0" y="460.0" class="u lbl">P-0008</text>
+<text x="743.0" y="479.0" font-size="12.5" font-weight="600">Maria Petrenko (Kovalenko)</text>
+<text x="743.0" y="497.0" font-size="10.5" fill="#444" xml:space="preserve">b. 1918   d. 2001</text>
+<rect x="733.0" y="594.0" width="200" height="64" rx="6" class="living"/>
+<text x="743.0" y="610.0" class="u lbl">P-0009</text>
+<text x="743.0" y="629.0" font-size="12.5" font-weight="600">LIVING</text>
+<text x="743.0" y="647.0" font-size="10.5" fill="#444" xml:space="preserve">details withheld</text>
+<text x="1078" y="712" class="u lbl" text-anchor="end">proof-tree · registers: ex-ussr-kinship-research format · style: dimensional-drawing</text></svg>

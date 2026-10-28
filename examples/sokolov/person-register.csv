@@ -1,0 +1,7 @@
+person_id,preferred_label,living_status,names_as_written,normalized_name_variants,birth_estimate,death_estimate,places,historical_jurisdictions,relatives_as_reported,occupation_or_status,confession_or_community_as_recorded,source_artifact_ids,candidate_status,merge_or_split_rationale,notes
+P-0001,Andrei Sokolov,deceased,Andrei Sokolov,Andrei; Andrey,1870,1931,Tver,Tver Gov.,,merchant,Orthodox,A-0001,confirmed,,
+P-0002,Evdokia Sokolova,deceased,Evdokiia Sokolova,Evdokia; Avdotia,1874,,Tver,Tver Gov.,,,Orthodox,A-0001,confirmed,,
+P-0003,Ilya Sokolov,deceased,Il'ia Sokolov,Ilya; Ilia,1897,1942,Tver; Leningrad,Tver Gov.,,engineer,,A-0001;A-0002;A-0003,confirmed,,
+P-0004,Vera Sokolova,deceased,Vera Sokolova,Vera,1899,1977,Tver,Tver Gov.,,,,A-0004,confirmed,,
+P-0005,Yuri Sokolov,deceased,Iurii Sokolov,Yuri; Iurii,1925,1990,Leningrad,Leningrad Obl.,,,,A-0003,confirmed,,
+P-0006,Lidia Sokolova,deceased,Lidiia Sokolova,Lidia,1928,,Leningrad,Leningrad Obl.,,,,A-0005,candidate,adoption record not found,

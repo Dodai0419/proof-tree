@@ -1,0 +1,8 @@
+claim_id,claim_text,subject_person_ids,claim_type,artifact_ids,supporting_independence_groups,contradicting_artifact_ids,status,confidence,rationale,next_action
+C-0001,Ivan and Paraskeva married in 1888,P-0001;P-0002,marriage,A-0001,parish-1888,,single-source,moderate,one parish entry,find the banns book
+C-0002,Hryhorii is the son of Ivan,P-0001;P-0003,parentage,A-0002;A-0003,parish-1889;civil-1912,,strongly-corroborated,high,birth entry plus father named on the 1912 marriage,
+C-0003,Hryhorii married Olena in 1912,P-0003;P-0005,marriage,A-0003,civil-1912,,single-source,moderate,one civil entry,
+C-0004,Petro is the son of Hryhorii and Olena,P-0003;P-0006,parentage,A-0007;A-0004,civil-1914;military-1941,,corroborated,high,birth record and soldier card agree,
+C-0005,Mykola is a son of Ivan,P-0001;P-0004,parentage,A-0005,forum-tree,,hypothesis,low,forum tree only,search 1892 births
+C-0006,Hanna is the daughter of Petro,P-0006;P-0007,parentage,A-0006,civil-1917,A-0006,contradicted,low,father would be 3 years old,re-read the entry
+C-0007,Petro married Maria in 1939,P-0006;P-0008,marriage,A-0008,civil-1939,,corroborated,moderate,,

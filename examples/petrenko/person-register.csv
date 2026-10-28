@@ -1,0 +1,10 @@
+person_id,preferred_label,living_status,names_as_written,normalized_name_variants,birth_estimate,death_estimate,places,historical_jurisdictions,relatives_as_reported,occupation_or_status,confession_or_community_as_recorded,source_artifact_ids,candidate_status,merge_or_split_rationale,notes
+P-0001,Ivan Petrenko,deceased,Ioann Petrenko,Ivan; Iwan; Ioann,c. 1861,1919,Kalynivka,Podolia Gov.,,peasant,Orthodox,A-0001;A-0002,confirmed,,
+P-0002,Paraskeva Petrenko (Melnyk),deceased,Paraskeva Mel'nikova,Paraskeva; Praskovia,c. 1866,[TBD],Kalynivka,Podolia Gov.,,,Orthodox,A-0001,confirmed,,
+P-0003,Hryhorii Petrenko,deceased,Grigorii Petrenko,Hryhorii; Grigorii,1889,1943,Kalynivka; Vinnytsia,Podolia Gov.,,soldier,Orthodox,A-0002;A-0003;A-0004,confirmed,,
+P-0004,Mykola Petrenko,deceased,Nikolai Petrenko,Mykola; Nikolai,1892,,Kalynivka,Podolia Gov.,,,Orthodox,A-0005,candidate,two namesakes in the parish,
+P-0005,Olena Petrenko (Bondar),deceased,Elena Bondar',Olena; Elena,1893,1971,Vinnytsia,Podolia Gov.,,,Orthodox,A-0003,confirmed,,
+P-0006,Petro Petrenko,deceased,Petr Petrenko,Petro; Petr,1914,1985,Vinnytsia,Vinnytsia Obl.,,teacher,,A-0004;A-0006;A-0007,confirmed,,
+P-0007,Hanna Petrenko,deceased,Anna Petrenko,Hanna; Anna,1917,,Vinnytsia,Vinnytsia Obl.,,,,A-0006,candidate,,
+P-0008,Maria Petrenko (Kovalenko),deceased,Mariia Kovalenko,Maria,1918,2001,Kyiv,Kyiv Obl.,,,,A-0008,confirmed,,
+P-0009,Living descendant,living,,,,,,,,,,,confirmed,,details withheld

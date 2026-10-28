@@ -1,0 +1,8 @@
+relationship_id,person_a_id,relationship_type,person_b_id,biological_legal_household,claim_ids,supporting_artifact_ids,contradicting_artifact_ids,independence_groups,status,confidence,rationale
+R-0001,P-0001,spouse-of,P-0002,legal,,A-0001,,tver-1897,single-source,moderate,both named as parents
+R-0002,P-0001,parent-of,P-0003,biological,C-0001,,,tver-1897;address-1930,corroborated,high,birth entry plus patronymic
+R-0003,P-0003,child-of,P-0002,biological,C-0001,,,tver-1897,single-source,moderate,
+R-0004,P-0003,spouse-of,P-0004,legal,C-0003,A-0004,,,single-source,moderate,
+R-0005,P-0003,parent-of,P-0005,biological,C-0002,,,blockade-1942,strongly-corroborated,high,informant named as son
+R-0006,P-0003,parent-of,P-0006,adoptive,C-0004,,,family-letters,hypothesis,low,
+R-0007,P-0004,parent-of,P-0005,biological,,A-0009,,,single-source,moderate,
